@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: htthps://gujarats.github.io/
+      url: https://gujarats.github.io/
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
