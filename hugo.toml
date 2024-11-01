@@ -1,0 +1,4 @@
+baseURL = 'https://gujarats.github.io/'
+languageCode = 'en-us'
+title = 'My Hugo in 2024'
+theme = 'ananke'
